@@ -1,11 +1,11 @@
 <h1 align="center">Hi , I'm Fürkan Üzüm</h1>
 <h3 align="center">Software Engineer | Python | .Net Dev | Data Science | Ai Engineer</h3>
 
-- 📫 How to reach me **furkannuzum@gmail.com**
+- 📫 Reach me at: **furkannuzum@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aDMqy76Zk5-vNsCXOuTxOZOF35TOqvnQ/view?usp=sharing](https://drive.google.com/file/d/1aDMqy76Zk5-vNsCXOuTxOZOF35TOqvnQ/view?usp=sharing)
+- 📄 View my resume: [Google Drive CV](https://drive.google.com/file/d/1aDMqy76Zk5-vNsCXOuTxOZOF35TOqvnQ/view?usp=sharing)
 
-- ⚡ Fun fact **Process-oriented, solution-focused, and always ready for a brainstorming session.**
+- ⚡ **Fun fact:** I'm process-oriented, solution-driven, and always ready for a brainstorming session!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
